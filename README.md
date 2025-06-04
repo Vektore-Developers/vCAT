@@ -2,7 +2,8 @@
 # Contents
 - [Summary](#summary)
 - [Instructions](#instructions)
-- [List of Materials](#list-of-materials)
+  - [STL Parts](#stl-parts)
+  - [List of Materials](#list-of-materials)
 - [Manufacturing 3D print](#manufacturing)
   - [Main piece](#main-piece)
   - [Small piece](#small-piece)
@@ -18,7 +19,8 @@ Full article describing industry challenges, and case-studies can be found at: [
 ![image](https://github.com/user-attachments/assets/3e5265b7-b6f1-43a9-8e7d-248e6f7c5f00)
 
 ## Instructions
-### Download STL Parts: [Main Part](https://github.com/Vektore-Developers/vCAT/blob/048c04df757a4d2b3cc974fd2812fd42f269fa13/vCAT%20Main%20piece.stl) and [Small Part](https://github.com/Vektore-Developers/vCAT/blob/048c04df757a4d2b3cc974fd2812fd42f269fa13/vCAT%20Small%20piece.stl)
+### STL Parts
+Download both STL Parts [Main Part](https://github.com/Vektore-Developers/vCAT/blob/048c04df757a4d2b3cc974fd2812fd42f269fa13/vCAT%20Main%20piece.stl) and [Small Part](https://github.com/Vektore-Developers/vCAT/blob/048c04df757a4d2b3cc974fd2812fd42f269fa13/vCAT%20Small%20piece.stl)
 
 ### List of materials
 -	3D printer
